@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|c:\\users\\evega\\source\\repos\\ejercicio_back\\ejercicio_back\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|solutionrelative:ejercicio_back\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\ejercicio_back\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|solutionrelative:ejercicio_back\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|c:\\users\\evega\\source\\repos\\ejercicio_back\\ejercicio_back\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|solutionrelative:ejercicio_back\\controllers\\tareascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|c:\\users\\evega\\source\\repos\\ejercicio_back\\ejercicio_back\\models\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{06E87127-5EE6-450A-8E74-AD554471A2A3}|EJERCICIO_BACK\\EJERCICIO_BACK.csproj|solutionrelative:ejercicio_back\\models\\taskmanagercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Web.config",
+              "RelativeDocumentMoniker": "EJERCICIO_BACK\\Web.config",
+              "ToolTip": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Web.config",
+              "RelativeToolTip": "EJERCICIO_BACK\\Web.config",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-09-18T20:34:00.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskManagerContext.cs",
+              "DocumentMoniker": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Models\\TaskManagerContext.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_BACK\\Models\\TaskManagerContext.cs",
+              "ToolTip": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Models\\TaskManagerContext.cs",
+              "RelativeToolTip": "EJERCICIO_BACK\\Models\\TaskManagerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T20:22:04.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TAREASController.cs",
+              "DocumentMoniker": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Controllers\\TAREASController.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_BACK\\Controllers\\TAREASController.cs",
+              "ToolTip": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Controllers\\TAREASController.cs",
+              "RelativeToolTip": "EJERCICIO_BACK\\Controllers\\TAREASController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:52:11.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "EJERCICIO_BACK\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\evega\\source\\repos\\EJERCICIO_BACK\\EJERCICIO_BACK\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "EJERCICIO_BACK\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:52:08.975Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
